@@ -1,0 +1,26 @@
+{
+  "version": "0.1",
+  "name": "Voca",
+  "launch_path": "/index.html",
+  "fullscreen": "true",
+  "icons": {
+    "128": "images/camera-128.png",
+    "512": "images/plazma512.png"
+  },
+  "developer": {
+    "name": "Sensory App House",
+    "url": "http://sensoryapphouse.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {},
+  "locales": {
+    "en": {
+      "name": "Voca",
+      "description": "Speech viewer"
+    }
+  },
+  "description": "Speech viewer"
+}

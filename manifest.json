@@ -1,0 +1,33 @@
+{
+  "name": "Voca Speech Viewer",
+  "short_name": "Voca",
+  "version": "1.0",
+  "icons": [{
+    "src": "images/voca-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "images/voca-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "images/voca-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "images/voca-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "images/voca-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }, {
+      "src": "images/voca-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "lang": "en-US",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
